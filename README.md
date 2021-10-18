@@ -5,5 +5,5 @@ This is a Data Visualization with Python Project (part of Coursera IBM Data Scie
 
 Instruction
 - Created a dashboard using Plotly and Dash.
-- Visualization types included: area plots, histograms, bar charts, pie charts, box plots, waffle charts and word clouds, and choropleth maps.
+- Visualization types included: area plots, histograms, bar charts, pie charts, box plots, waffle charts, word clouds, and choropleth maps.
 - Using Pandas, Matplotlib, Seaborn, and Folium.
