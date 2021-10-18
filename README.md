@@ -15,9 +15,10 @@ Instruction
 
 ![initial_image](https://github.com/MyTarn/IBM_Data_Visualization_with_Python/blob/master/Dashboard-1.png)
 
-  2. Have 2 reports(Airline Performance and Delay Reports).
 
-### The Airline Performnance Report
+  2. Have two reports(Airline Performance and Delay Reports).
+
+     ### 2.1 The Airline Performnance Report
 
 - It has a treemap(Number of flights flying to each state from each reporting airline).
 - Pie chart(Percentage of diverted airport landings per reporting airline).
@@ -28,7 +29,7 @@ Instruction
 ![treemap](https://github.com/MyTarn/IBM_Data_Visualization_with_Python/blob/master/Dashboard-2.png)
 ![piechart and usa map](https://github.com/MyTarn/IBM_Data_Visualization_with_Python/blob/master/Dashboard-4.png)
 
-### The Airline Delay Report
+     ### 2.2 The Airline Delay Report
 
 - It contains line charts showing average carrier.
 - Weather
